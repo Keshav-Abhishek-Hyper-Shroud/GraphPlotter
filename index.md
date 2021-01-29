@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Graph Plotter 
 
-You can use the [editor on GitHub](https://github.com/EccentricX/GraphPlotter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project/repository contains programs for plotting graphs of various functions including *polynomial* , *trignometric* , *exponentiation* and *logarithmic functions* using **Turtle/Matplotlib** along with **Tkinter**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview 
 
-```markdown
-Syntax highlighted code block
+The following project had been initiated as an experimental project to test turtle's feasibility in plotting 2D graphs of various types of functions.
+Project slowly transposed into a **Graph Plotting Software** which currently(in latest version) uses tkinker and matplotlib .
 
-# Header 1
-## Header 2
-### Header 3
+## Versions
+### GraphPlotterI
+  * Most basic version
+  * For plotting straight line, quadratic functions and trignometric functions.
+  * Link: [GraphPlotterI](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter1.0.py)
+### GraphPlotterII
+  * For plotting straight line, polynomial functions and trignometric functions.
+  * Link: [GraphPlotterII](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter2.0.py)
+### GraphPlotterIII
+  * For plotting straight line, quadratic functions and trignometric functions.
+  * Two different graphing planes available.
+  * Help available.
+  * Verification password : HeisenBerG
+  * Link: [GraphPlotterIII](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter3.0.py)
+### GraphPlotterIV
+  * First GUI varient
+  * For plotting polynomial functions and trignometric functions.
+  * Link:
+    * *Python File*: [GraphPlotterIV](https://github.com/EccentricX/GraphPlotter/blob/master/GraphPlotter4.0(GP-IV).py)
+    * *Executable File*: [GraphPlotterIV](https://drive.google.com/file/d/19lc6ELbS0LspHPiy3AOeNnw40f1fcKqT/view)
+### GraphPlotterV
+  *  **[Under Development!!!]**
+  *  For plotting polynomial functions , trignometric functions , Bar Garphs and Pie Charts.
+  *  Help section addressing FAQs.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
+```
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EccentricX/GraphPlotter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_[Licensed  under MIT License](https://github.com/YasirAhmad-EccentriX/GraphPlotter/blob/master/LICENSE)_
